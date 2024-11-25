@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://zalo.github.io/CascadeStudio/"><img src="./icon/CascadeStudioBanner-1257x519.png" href></a>
-</p>
+
 <p align="center">
   <a href="https://github.com/zalo/CascadeStudio/deployments/activity_log?environment=github-pages">
       <img src="https://img.shields.io/github/deployments/zalo/CascadeStudio/github-pages?label=Github%20Pages%20Deployment" title="Github Pages Deployment"></a>
@@ -78,4 +76,4 @@ Cascade Studio uses:
  - [rawinflate/rawdeflate](https://github.com/dankogai/js-deflate) (URL Code Serialization)
  - [potpack](https://github.com/mapbox/potpack) (Texture Atlas Packing)
 
-Cascade Studio is maintained by [Johnathon Selstad @zalo](https://github.com/zalo)
+Cascade Studio is maintained by [Joelo Laberinto @ https://github.com/joelobros23)
